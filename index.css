@@ -206,7 +206,7 @@ box-shadow: 0 0 25px var(--main-color);
     }
 
     26%, 50% {
-        content: 'Software Tester'; /* Empty content to avoid overlapping */
+        content: 'Software Tester';
     }
 
     51%, 75% {
@@ -214,7 +214,7 @@ box-shadow: 0 0 25px var(--main-color);
     }
 
     76%, 100% {
-        content: 'Software Tester'; /* Empty content to avoid overlapping */
+        content: 'Software Tester';
     }
 }
 
@@ -561,3 +561,6 @@ padding: 2rem 3%;
         
         
         }}
+
+
+        
